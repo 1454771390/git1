@@ -1,2 +1,5 @@
-mkdir是创建文件夹
+﻿mkdir是创建文件夹
 touch是创建文本
+
+w
+w
