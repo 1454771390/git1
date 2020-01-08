@@ -1,5 +1,4 @@
 ﻿mkdir是创建文件夹
 touch是创建文本
 
-w
-w
+linux与cmd都适用
